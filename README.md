@@ -1,7 +1,6 @@
 # 🌾 Palletooru Smart Farmer Assistant  
-### Blockchain & AI Powered AgriTech Platform
 
-🔗 **Live Project URL:**  
+**Live Project URL:**  
 https://app.base44.com/apps/698c3aba5e0e6c703a72d71b/editor/preview/Home
 
 ## 📌 Project Overview
@@ -21,7 +20,7 @@ By integrating Blockchain, Artificial Intelligence, Machine Learning, and real-t
 
 ---
 
-## 🎯 Motivation Behind the Project
+## Motivation Behind the Project
 
 This idea was inspired by real-world challenges faced by rural farmers:
 
@@ -36,8 +35,7 @@ The goal is to digitally empower farmers, ensure consumer trust, and enable data
 ## How It Differs from Other Platforms
 Unlike traditional agriculture applications that only provide weather updates or advisory services, this platform focuses primarily on eliminating middlemen and building a transparent farm-to-consumer ecosystem.
 
-🔎 **Key Differentiators:**
-
+**Key Differentiators:**
 - Designed specifically to remove middlemen and ensure fair pricing  
 - Blockchain-based tamper-proof crop verification  
 - QR-based transparency linking farmer directly to consumer  
@@ -48,7 +46,7 @@ Unlike traditional agriculture applications that only provide weather updates or
 
 Most existing platforms address only one aspect (weather, advisory, or marketplace), whereas this system integrates transparency, verification, AI intelligence, and government analytics into a single unified solution.
 
-## 🔮 Future Updates
+## Future Updates
 
 Planned enhancements include:
 
@@ -61,22 +59,22 @@ Planned enhancements include:
 
 These updates can transform the platform into a full-scale AgriTech startup solution.
 
-## 👥 Use Cases & Purpose
+## Use Cases & Purpose
 
-### 👨‍🌾 Farmers
+### Farmers
 - Register crops and track growth
 - Generate verified QR codes after harvest
 - Receive AI-based advisory support
 - Detect crop diseases early using ML
 - Improve trust and increase direct profit
 
-### 🛒 Consumers
+### Consumers
 - Scan QR codes
 - Verify crop authenticity and harvest details
 - Check chemical usage and freshness
 - Ensure food transparency and trust
 
-### 🏛 Government
+### Government
 - Monitor district-wise crop production
 - Analyze fertilizer & pesticide usage trends
 - Track disease patterns
@@ -85,46 +83,18 @@ These updates can transform the platform into a full-scale AgriTech startup solu
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### Frontend
-- React.js  
-- HTML5, CSS3, JavaScript  
-- Mobile-First Responsive UI Design  
-
-### Backend
-- Node.js  
-- Express.js  
-
-### Database
-- MongoDB / Firebase  
-
-### Authentication
-- Email & Password  
-- Google OAuth Sign-In  
-
-### Blockchain
-- Ethereum / Polygon Testnet  
-- Solidity Smart Contracts  
-- Hash-Based Crop Verification  
-
-### Artificial Intelligence
-- Rule-Based AI Advisory System  
-- NLP-Based Farming Chatbot  
-
-### Machine Learning
-- TensorFlow / PyTorch  
-- CNN / MobileNet for Crop Disease Detection  
-
-### APIs & Integrations
-- Real-Time Weather API  
-- Google Translate API (Multi-Language Support)  
+**Frontend:** React.js  
+**Backend:** Node.js + Express  
+**Database:** MongoDB / Firebase  
+**Blockchain:** Ethereum / Polygon (Smart Contracts)  
+**Machine Learning:** TensorFlow / PyTorch (Image
 
 ### Deployment
-- Vercel (Frontend)  
-- Render / Railway (Backend)  
+- Base44    
 
-## 🏁 Conclusion
+## Conclusion
 
 Palletooru Smart Farmer Assistant aims to build a secure, transparent, and AI-driven agricultural ecosystem that removes middlemen, improves farmer income, enhances consumer trust, and supports government-level agricultural planning through real-time data and intelligent systems.
 
